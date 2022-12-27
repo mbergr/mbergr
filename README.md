@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Mathias Berg and I am an Civil Industrial Engineer with a BI diploma. I'm currently located in Santiago, Chile.
+I am looking for a remote work to help me achive my dream of becoming a ✨digital nomad✨. 
+Therefore I started uploading projects on my Github page to use it as a portfolio in order to, hopefully, stand out in the job market. 
+
+- 📫 How to reach me: write me an email at mathias.berg.1992@gmail.com
 
 <!--
 **mbergr/mbergr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
