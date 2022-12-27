@@ -5,7 +5,7 @@ I am looking for a remote work to help me achive my dream of becoming a digital 
 
 Therefore I started uploading projects on my Github page to use it as a portfolio in order to, hopefully, **stand out** in the job market. 
 
-I'm currently learning about data analysis/science/engineering by doing Datacamp and Kaggle projects and I aspire to work in one of those fields.
+I'm currently learning about data analysis/science/engineering by doing Datacamp and Kaggle projects and I aspire to work in a data related position.
 
 If you want to reach me, write me an email at mathias.berg.1992@gmail.com 
 
