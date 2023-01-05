@@ -1,15 +1,14 @@
-### Hi there 👋
-My name is Mathias Berg and I am an Civil Industrial Engineer with a BI diploma, currently located in Santiago, Chile.
+# Data Analyst Portfolio
+### Hi there 👋 
+My name is Mathias Berg and I am a Civil Industrial Engineer with a Business Intelligence diploma and a passion for data analysis. I am seeking an entry-level data analyst position where I can use my skills and knowledge to make a positive impact.
 
-I am looking for a remote work to help me achive my dream of becoming a digital nomad.:dizzy: 
+I have completed several data analysis projects using Python, SQL, and data visualization tools, which are available for review on my GitHub page. These projects demonstrate my ability to manipulate, analyze, and visualize data to extract valuable insights.
 
-Therefore I started uploading projects on my Github page to use it as a portfolio in order to, hopefully, **stand out** in the job market. 
+I am highly motivated to continue learning and growing in the field of data analysis. I have completed online courses on platforms like Datacamp and Kaggle, and I am always looking for new opportunities to expand my knowledge and skills.
 
-I'm currently learning about data analysis/science/engineering by doing Datacamp and Kaggle projects and I aspire to work in a data related position.
+If you are looking for a dedicated and eager data analyst to join your team, please don't hesitate to contact me at mathias.berg.1992@gmail.com. I am open to remote work and am willing to relocate for the right opportunity.
 
-If you want to reach me, write me an email at mathias.berg.1992@gmail.com 
-
-Thanks for reading! :raised_hands:
+Thank you for considering my application. I look forward to discussing how my skills and experience can contribute to your team.
 
 <!--
 **mbergr/mbergr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
