@@ -4,7 +4,7 @@ My name is Mathias Berg and I am a Civil Industrial Engineer with a Business Int
 
 I have completed several data analysis projects using Python, SQL, and data visualization tools, which are available for review on my GitHub page. These projects demonstrate my ability to manipulate, analyze, and visualize data to extract valuable insights.
 
-I am highly motivated to continue learning and growing in the field of data analysis. I have completed online courses on platforms like Datacamp and Kaggle, and I am always looking for new opportunities to expand my knowledge and skills.
+I am highly motivated to continue learning and growing in the field of data analysis. I have completed online courses on platforms like Datacamp, and I am always looking for new opportunities to expand my knowledge and skills.
 
 If you are looking for a dedicated and eager data analyst to join your team, please don't hesitate to contact me at mathias.berg.1992@gmail.com. I am open to remote work and am willing to relocate for the right opportunity.
 
