@@ -1,6 +1,6 @@
-# Data Analyst Portfolio
+# Data Portfolio
 ### Hi there 👋 
-My name is Mathias Berg and I am a Civil Industrial Engineer with a Business Intelligence diploma and a passion for data analysis. I am seeking an entry-level data analyst position where I can use my skills and knowledge to make a positive impact.
+My name is Mathias Berg and I am a Industrial Engineer with a Business Intelligence diploma and a passion for data analysis. I am seeking an entry-level data analyst position where I can use my skills and knowledge to make a positive impact.
 
 I have completed several data analysis projects using Python, SQL, and data visualization tools, which are available for review on my repositories. These projects demonstrate my ability to manipulate, analyze, and visualize data to extract valuable insights.
 
