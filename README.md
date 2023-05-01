@@ -2,7 +2,7 @@
 ### Hi there 👋 
 My name is Mathias Berg and I am a Civil Industrial Engineer with a Business Intelligence diploma and a passion for data analysis. I am seeking an entry-level data analyst position where I can use my skills and knowledge to make a positive impact.
 
-I have completed several data analysis projects using Python, SQL, and data visualization tools, which are available for review on my GitHub page. These projects demonstrate my ability to manipulate, analyze, and visualize data to extract valuable insights.
+I have completed several data analysis projects using Python, SQL, and data visualization tools, which are available for review on my repositories. These projects demonstrate my ability to manipulate, analyze, and visualize data to extract valuable insights.
 
 I am highly motivated to continue learning and growing in the field of data analysis. I have completed online courses on platforms like Datacamp, and I am always looking for new opportunities to expand my knowledge and skills.
 
