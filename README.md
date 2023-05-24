@@ -6,7 +6,7 @@ I have completed several data analysis projects using Python, SQL, and data visu
 
 I am highly motivated to continue learning and growing in the field of data analysis. I have completed online courses on platforms like Datacamp, and I am always looking for new opportunities to expand my knowledge and skills.
 
-If you are looking for a dedicated and eager data analyst to join your team, please don't hesitate to contact me at mathias.berg.1992@gmail.com. I am open to remote work and am willing to relocate for the right opportunity.
+If you are looking for a dedicated and eager data analyst to join your team, please don't hesitate to contact me at mathias.berg.1992@gmail.com. I am willing to relocate for the right opportunity.
 
 Thank you for considering my application. I look forward to discussing how my skills and experience can contribute to your team.
 
