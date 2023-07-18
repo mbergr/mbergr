@@ -1,4 +1,4 @@
-# Data Portfolio
+# Mathias Berg | Greeting
 ### Hi there 👋 
 My name is Mathias Berg and I am a Industrial Engineer with a Business Intelligence diploma and a passion for data analysis. I am seeking an entry-level data analyst position where I can use my skills and knowledge to make a positive impact.
 
