@@ -1,14 +1,10 @@
 # Mathias Berg | Greeting
 ### Hi there 👋 
-My name is Mathias Berg and I am a Industrial Engineer with a Business Intelligence diploma and a passion for data analysis. I am seeking an entry-level data analyst position where I can use my skills and knowledge to make a positive impact.
+My name is Mathias Berg and I am a Industrial Engineer with a Business Intelligence diploma and a passion for data analysis.
 
-I have completed several data analysis projects using Python, SQL, and data visualization tools, which are available for review on my repositories. These projects demonstrate my ability to manipulate, analyze, and visualize data to extract valuable insights.
+I have completed several data analysis projects using Python, SQL, and data visualization tools.
 
-I am highly motivated to continue learning and growing in the field of data analysis. I have completed online courses on platforms like Datacamp, and I am always looking for new opportunities to expand my knowledge and skills.
-
-If you are looking for a dedicated and eager data analyst to join your team, please don't hesitate to contact me at mathias.berg.1992@gmail.com. I am willing to relocate for the right opportunity.
-
-Thank you for considering my application. I look forward to discussing how my skills and experience can contribute to your team.
+I am highly motivated to continue learning and growing in the field of data analysis, and I am always looking for new opportunities to expand my knowledge and skills.
 
 <!--
 **mbergr/mbergr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
