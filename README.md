@@ -1,10 +1,7 @@
 # Mathias Berg | Greeting
 ### Hi there 👋 
-My name is Mathias Berg and I am a Industrial Engineer with a Business Intelligence diploma and a passion for data analysis.
-
-I have completed several data analysis projects using Python, SQL, and data visualization tools.
-
-I am highly motivated to continue learning and growing in the field of data analysis, and I am always looking for new opportunities to expand my knowledge and skills.
+My name is Mathias Berg and I am a Industrial Engineer with a Business Intelligence diploma and am currently working as a Data Analyst.
+I am highly motivated to continue learning and growing in the field of data analysis, science and engineering, and I am always looking for new opportunities to expand my knowledge and skills.
 
 <!--
 **mbergr/mbergr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
