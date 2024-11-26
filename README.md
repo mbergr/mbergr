@@ -3,7 +3,7 @@
 My name is Mathias Berg and I am a Data Analyst with an Industrial Engineer degree and a Business Intelligence diploma.
 I am highly motivated to continue learning and growing in the field of data analysis, science and engineering, and I am always looking for new opportunities to expand my knowledge and skills.
 
-- 📫 You can reach me at my personal email: mathias.berg.1992@gmail.com
+📫 You can reach me at my personal email: mathias.berg.1992@gmail.com
 <!--
 **mbergr/mbergr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
